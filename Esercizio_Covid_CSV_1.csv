@@ -1,0 +1,31 @@
+﻿ID,Informazioni cronologiche,Nome,Cognome,Citta',Positivo,Ricoverato,Giorni Degenza
+1,2023/02/07 8:44:47 PM CET,Giuseppe,d'Amico,San Severo,No,No,0
+2,2023/02/07 8:45:04 PM CET,Jamila,Alaggia,Roma,Si,No,15
+3,2023/02/07 8:45:09 PM CET,Daria,Rossi,Lecce,Si,No,12
+4,2023/02/07 8:45:10 PM CET,Alessandro ,Ciccarone,Roma,No,No,0
+5,2023/02/07 8:45:54 PM CET,ALESSIO,ALLEGRETTA,TARANTO,No,No,0
+6,2023/02/07 8:46:11 PM CET,Jacopo,Cantaluppi,Como,Si,No,10
+7,2023/02/07 8:46:46 PM CET,Francesco,Egizii,Firenze,Si,No,0
+8,2023/02/07 8:47:02 PM CET,Valentina,Sciatore,Roma,Si,No,24
+9,2023/02/07 8:47:22 PM CET,Simone,Rampazzo,Padova,Si,No,12
+10,2023/02/07 8:48:19 PM CET,Paola,Zirilli,Gioia Tauro ,Si,No,0
+11,2023/02/07 8:49:14 PM CET,Giovanni,Esposito,Pisa,No,No,0
+12,2023/02/07 8:49:38 PM CET,William,Viggiani,Bari,No,No,0
+13,2023/02/07 8:50:04 PM CET,Flavio,Butchiewietz,Bagolino,Si,No,18
+14,2023/02/07 8:50:09 PM CET,Alessia ,Monasteri ,Torino,Si,No,28
+15,2023/02/07 8:50:30 PM CET,GUIDO ANTONIO,TOCCI,COSENZA,No,No,0
+16,2023/02/07 8:50:54 PM CET,Vincenzo,Giacalone Biondo,Palermo,Si,No,7
+17,2023/02/07 8:50:55 PM CET,Maria Rosaria ,Tocci,Cosenza,Si,No,7
+18,2023/02/07 8:51:09 PM CET,Mara,Cuomo,Venezia,Si,No,13
+19,2023/02/07 8:51:16 PM CET,Mattia,Brugnaro,Padova,No,No,0
+20,2023/02/07 8:51:34 PM CET,Elisabetta,De Vito-Francesco,Padova,Si,No,7
+21,2023/02/07 8:51:37 PM CET,Tomasz,Juraszek,Modena,No,No,0
+22,2023/02/07 8:52:15 PM CET,Gabriele,Pellegrino,Reggio Calabria,Si,No,18
+23,2023/02/07 8:52:30 PM CET,Diana,Laudato,Roma,Si,No,9
+24,2023/02/07 8:52:33 PM CET,Jacopo,Trono,Padova,No,No,0
+25,2023/02/07 8:53:49 PM CET,Denis,Bosio,Cuneo,No,No,0
+26,2023/02/07 8:53:58 PM CET,G.,Ferrara,Apricena,No,No,0
+27,2023/02/07 8:57:04 PM CET,Federico,Vacca,Cagliari,Si,No,12
+28,2023/02/07 8:58:32 PM CET,Pietro,Celona,Palermo,No,No,0
+29,2023/02/07 8:59:41 PM CET,Pierluigi,Venneri,Cosenza,Si,No,15
+30,2023/02/07 9:03:51 PM CET,Giulia,Murano,Crotone,Si,No,17
