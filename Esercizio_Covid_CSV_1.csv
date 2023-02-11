@@ -1,4 +1,4 @@
-﻿ID,Informazioni cronologiche,Nome,Cognome,Citta',Positivo,Ricoverato,Giorni Degenza
+ID,Data inserimento,Nome,Cognome,Citta',Positivo,Ricoverato,Giorni Degenza
 1,2023/02/07 8:44:47 PM CET,Giuseppe,d'Amico,San Severo,No,No,0
 2,2023/02/07 8:45:04 PM CET,Jamila,Alaggia,Roma,Si,No,15
 3,2023/02/07 8:45:09 PM CET,Daria,Rossi,Lecce,Si,No,12
